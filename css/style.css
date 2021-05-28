@@ -2271,17 +2271,17 @@ line-height: 30px;
      margin-top: 58px;
 }
 
-.Clients{
+.vectores{
      width: 100%; 
      float: left;
 }
 
-.section_Clients{
+.section_vectores{
      width: 100%;
      float: left;
 }
 
-.section .Clients_2{ 
+.section .vectores_2{ 
      width: 100%; 
      float: left; 
 }
@@ -2581,7 +2581,7 @@ button.btn.btn-primary,button.btn.btn-primary:hover,button.btn.btn-primary:focus
 .product {padding-top: 90px;}
 .product .titlepage h2 {color: #136af8;}
 .black {color: #000;}
-.section_Clients .titlepage h2{
+.section_vectores .titlepage h2{
    padding: 0px 0px 0px 0px;
 font-size: 50px;
 font-weight: bold;
