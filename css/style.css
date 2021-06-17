@@ -440,7 +440,7 @@ a.readmore_bt {
 /*--------------------------------------------------------------------- header area ---------------------------------------------------------------------*/
 
 .header {
-     background-color: black;
+     background-color: #2e4d80;
      background-repeat: repeat;
      background-size: auto;
      position: absolute;
@@ -1073,12 +1073,11 @@ ul.top_icon li a {
 
 .main-menu ul>li a {
      line-height: 20px;
-     font-size: 16px;
+     font-size: 18px;
      display: block;
      font-weight: 500;
      color: #ffffff;
      padding: 22px 20px;
-     text-transform: uppercase;
 }
 
 
@@ -2235,6 +2234,14 @@ line-height: 18px;
     font-size: 18px;
 }
 
+blockquote {
+     font-size: 18px;
+}
+
+blockquote p {
+     font-size: 18px;
+}
+
 
 .blue_bg {
      background-color: #136af8;
@@ -2251,7 +2258,7 @@ line-height: 18px;
 
      color: #fffcf4;
      margin-top: 80px;
-     font-size: 30px;
+     font-size: 40px;
 
 font-weight: bold;
 
@@ -2260,7 +2267,7 @@ line-height: 30px;
 .lorem_text{ 
      width: 100%;
      float: left; 
-     font-size: 16px; 
+     font-size: 19px; 
      color: #fffcf4;
      margin: 0px; 
 }
@@ -2517,7 +2524,7 @@ border-radius: 10px;
 .header_main{
      width: 100%;
      float: left;
-     background-color: black;
+     background-color: #2e4d80;
      padding-top: 20px;
 }
 
